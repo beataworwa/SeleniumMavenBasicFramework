@@ -19,7 +19,7 @@ public class FirstTest {
     }
 
     @Test
-    public void moveFromMainPageToPolishVersion() {
+    public void openMainPage() {
         webDriver.get("https://allegro.pl/");
         waitForLoad(webDriver);
     }
