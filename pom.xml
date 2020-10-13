@@ -15,7 +15,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <selenium.version>3.141.59</selenium.version>
         <webdriver.manager.version>3.8.1</webdriver.manager.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <assertj.version>3.15.0</assertj.version>
         <surfire.plugin.version>3.0.0-M4</surfire.plugin.version>
 
